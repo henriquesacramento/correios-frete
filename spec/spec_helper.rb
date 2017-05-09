@@ -1,4 +1,4 @@
-require 'correios-frete'
+require 'correios-frete-alternative'
 require 'webmock/rspec'
 
 # Requires supporting files with custom matchers and macros, etc,
