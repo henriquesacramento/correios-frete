@@ -3,7 +3,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'correios/frete/version'
 
 Gem::Specification.new do |gem|
-  gem.name        = "correios-frete"
+  gem.name        = "correios-frete-alternative"
   gem.version     = Correios::Frete::VERSION
   gem.authors     = ["Fernando Hamasaki de Amorim"]
   gem.email       = ["prodis@gmail.com"]
